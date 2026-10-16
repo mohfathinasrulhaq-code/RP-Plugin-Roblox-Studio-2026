@@ -1,0 +1,26 @@
+{
+  "name": "RP-Plugin",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "EconomySystem": {
+        "$path": "framework/ReplicatedStorage/EconomySystem"
+      }
+    },
+
+    "ServerScriptService": {
+      "EconomySystem": {
+        "$path": "framework/ServerScriptService/EconomySystem"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "EconomySystem": {
+          "$path": "framework/StarterPlayer/StarterPlayerScripts/EconomySystem"
+        }
+      }
+    }
+  }
+}
